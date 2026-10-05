@@ -1,0 +1,163 @@
+[
+  {
+    "id": "royal-voltage-electro-mechanical-works",
+    "name": "Royal Voltage Electro Mechanical Works",
+    "description": "Business website for a UAE-based electro-mechanical contracting company (est. 2007) covering electrical, mechanical, plumbing, low-current and solar works across Abu Dhabi. Built as a full client site \u2014 company services, project scope and contact paths structured for real leads, not a demo.",
+    "stack": [
+      "Client Project",
+      "Business Website",
+      "UI/UX"
+    ],
+    "live": "https://www.royal-voltage.ae/",
+    "github": null
+  },
+  {
+    "id": "task-app",
+    "name": "Task App",
+    "description": "A focused task manager built to get out of the way \u2014 add, complete and clear tasks in a couple of clicks, with instant UI feedback and zero unnecessary steps. The project I'd point to first for clean, purposeful interaction design.",
+    "stack": [
+      "JavaScript",
+      "DOM",
+      "UI/UX"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/task/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/task"
+  },
+  {
+    "id": "finance-ai",
+    "name": "Finance AI",
+    "description": "AI-assisted financial dashboard with real-time interactions \u2014 spending breakdowns, charts and smart components driven by a modern component architecture.",
+    "stack": [
+      "React",
+      "Vercel",
+      "UI/UX"
+    ],
+    "live": "https://finance-ai-beta-coral.vercel.app/",
+    "github": "https://github.com/Mujtaba-K-Mohammed"
+  },
+  {
+    "id": "clinic-booking-system",
+    "name": "Clinic Booking System",
+    "description": "A full-stack clinic booking and management system designed to streamline appointment scheduling and improve the interaction between patients and healthcare providers. The application features a modern responsive interface connected to a backend API and database.",
+    "stack": [
+      "React",
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "Full Stack"
+    ],
+    "live": "https://clinic-booking-frontend-gamma.vercel.app/",
+    "github": null
+  },
+  {
+    "id": "ai-business-dashboard",
+    "name": "AI Business Dashboard",
+    "description": "Analytics dashboard for business data with chart-driven views built for quick, at-a-glance insight.",
+    "stack": [
+      "JavaScript",
+      "UI/UX"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/AI-Business-Dashboard/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/AI-Business-Dashboard"
+  },
+  {
+    "id": "ai-chat-assistant",
+    "name": "AI Chat Assistant",
+    "description": "Chat interface with a dynamic message flow and a UI built to feel responsive during streamed replies.",
+    "stack": [
+      "JavaScript",
+      "DOM"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/AI-Chat-Assistant/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/AI-Chat-Assistant"
+  },
+  {
+    "id": "ai-business-solutions",
+    "name": "AI Business Solutions",
+    "description": "Landing platform for AI-driven business tooling \u2014 automation-focused sections and clear conversion paths.",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/ai-business-solutions/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/ai-business-solutions"
+  },
+  {
+    "id": "react-crud",
+    "name": "React CRUD",
+    "description": "Full create\u2013read\u2013update\u2013delete app in React, structured around clean, reusable components and local state.",
+    "stack": [
+      "React",
+      "CRUD"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/React-CRUD/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/React-CRUD"
+  },
+  {
+    "id": "prompt-generation",
+    "name": "Prompt Generation",
+    "description": "AI prompt builder that turns rough input into structured, optimized prompts through a guided form flow.",
+    "stack": [
+      "JavaScript",
+      "UI/UX"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/Prompt-Generation/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/Prompt-Generation"
+  },
+  {
+    "id": "product-app",
+    "name": "Product App",
+    "description": "Product management app with fast interactions and a clean UI for adding, editing and browsing items.",
+    "stack": [
+      "React",
+      "Vercel"
+    ],
+    "live": "https://product-app-blond-six.vercel.app",
+    "github": "https://github.com/Mujtaba-K-Mohammed"
+  },
+  {
+    "id": "avatar-landing-page",
+    "name": "Avatar Landing Page",
+    "description": "Responsive landing page inspired by the Avatar movie's visual world \u2014 built as a layout & motion exercise.",
+    "stack": [
+      "HTML",
+      "CSS"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/portfolio-website/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/portfolio-website"
+  },
+  {
+    "id": "product-page",
+    "name": "Product Page",
+    "description": "Clean product detail page with an image gallery and a fully responsive layout across breakpoints.",
+    "stack": [
+      "HTML",
+      "CSS"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/product-page/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/product-page"
+  },
+  {
+    "id": "landing-page",
+    "name": "Landing Page",
+    "description": "Marketing landing page with smooth section transitions and a modern, conversion-oriented layout.",
+    "stack": [
+      "HTML",
+      "CSS"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/landing-page/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/landing-page"
+  },
+  {
+    "id": "services-website",
+    "name": "Services Website",
+    "description": "Services-based site with a clean information hierarchy and a smooth, responsive user experience.",
+    "stack": [
+      "HTML",
+      "CSS"
+    ],
+    "live": "https://mujtaba-k-mohammed.github.io/Services-Website/",
+    "github": "https://github.com/Mujtaba-K-Mohammed/Services-Website"
+  }
+]
