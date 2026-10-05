@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mujtaba-k-mohammed.github.io/portfolio/sitemap.xml
